@@ -4,28 +4,28 @@ App Lambe - Rede social baseada no Instagram
    O desenvolvimento do mesmo teve como base um curso de React Native e com isso o app foi desenvolvido como um "projeto de conclusão" do curso que decidi fazer.
 
    O app possui funcionalidades de gereciamento de dados do usuário:
-      * Login
-      * Recuperação de conta via email
-      * Registro de usuário
-      * Apagar conta
-      * Logout
+      - Login
+      - Recuperação de conta via email
+      - Registro de usuário
+      - Apagar conta
+      - Logout
    
    E funcinalidades referente a publicações de imagem:
-      * Criação com descrição
-      * Apagar publicação
-      * Curtir publicações
-      * Comentar
-      * Acessar lista de comentários
-      * Apagar comentários
+      - Criação com descrição
+      - Apagar publicação
+      - Curtir publicações
+      - Comentar
+      - Acessar lista de comentários
+      - Apagar comentários
 
 
 - Comandos usados para rodar a aplicação
 
    Inicia a aplicação react native
-   npm start
+   -   npm start
 
    Instala o app no device android
-   npm run android
+   -   npm run android
 
 
 - Gerar APK
